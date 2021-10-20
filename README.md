@@ -1,2 +1,6 @@
-# cheatsheets
-Cheatsheet to some tools I am using
+# Cheat Sheets
+Cheat sheet to some tools I use.
+
+1. NeoVim
+2. Tmux
+
