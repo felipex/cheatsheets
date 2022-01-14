@@ -13,11 +13,10 @@ h l
 
 `h` -> move cursor left  
 `l` -> move cursor right  
--
-`k` -> move cursor up
--
-`j` -> move cursor down
----
+`k` -> move cursor up  
+`j` -> move cursor down  
+
+
 
 `0` -> jump to the start of the line
 `$` -> jump to the end of the line
