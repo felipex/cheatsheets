@@ -15,10 +15,11 @@ h l
 `l` -> move cursor right  
 `k` -> move cursor up  
 `j` -> move cursor down  
-
-
-
+***
 `0` -> jump to the start of the line
+
+***
+
 `$` -> jump to the end of the line
 
 `gg` -> jump to the start of the document
