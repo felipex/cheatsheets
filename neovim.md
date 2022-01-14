@@ -11,12 +11,11 @@ h l
  j
 ```
 
-`h` -> move cursor left
----
-`l` -> move cursor right
----
+`h` -> move cursor left  
+`l` -> move cursor right  
+-
 `k` -> move cursor up
----
+-
 `j` -> move cursor down
 ---
 
