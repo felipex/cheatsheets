@@ -41,3 +41,6 @@ https://github.com/mattmc3/neovim-cheatsheet
 https://devhints.io/vim
 
 https://github-wiki-see.page/m/yqlbu/neovim-server/wiki/Cheat-Sheet
+
+(MARKDOWN) - https://www.markdownguide.org/basic-syntax
+
