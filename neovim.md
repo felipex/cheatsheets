@@ -3,7 +3,8 @@
 ### Navigation/Cursor Movement
 
 
-`k``
+```
+ k
 h l
  j
 ```
