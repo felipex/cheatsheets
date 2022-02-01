@@ -25,6 +25,9 @@ h l
 `gg` -> jump to the start of the document
 `G` -> jump to the end of the document
 
+***
+`:%/foo/bar/g` -> search and replace (https://linuxize.com/post/vim-find-replace/)
+
 
 
 
