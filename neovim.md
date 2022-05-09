@@ -46,10 +46,10 @@ Windows Navigation
 ---
 Configuration
 ---
-* `:set number` - show line numbers
-* `:set nonumber` - hide line numbers
-* `:set tabstop=4` - set tabs
-* `:set shiftwidth=4` - indenting is 4 spaces
+| `:set number` | show line numbers
+| `:set nonumber` | hide line numbers
+| `:set tabstop=4` | set tabs
+| `:set shiftwidth=4` | indenting is 4 spaces
 
 Referências
 
