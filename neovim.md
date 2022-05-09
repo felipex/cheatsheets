@@ -46,6 +46,7 @@ Windows Navigation
 ---
 Configuration
 ---
+|---------|-------|
 | `:set number` | show line numbers
 | `:set nonumber` | hide line numbers
 | `:set tabstop=4` | set tabs
