@@ -46,7 +46,7 @@ Windows Navigation
 ---
 Configuration
 ---
-|---------|-------|
+
 | Command | Description|
 |---------|-------|
 | `:set number` | show line numbers
