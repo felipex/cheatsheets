@@ -32,24 +32,24 @@ Seach and Replace
 ---
 Windows Navigation
 ---
-`Ctrl + ws ` - split window horizontaly
-`:split filename` - split window horizontaly
-`:vsplit filename` - split window verticaly
-`:bn` - next window
-`:bp` - previous window
-`:bd` - close window
-`:only` - keep only this window open
-`:ls` - show current buffers
-`:b #n` - open buffer n in this window
-`:hide` - hide current window
+* `Ctrl + ws ` - split window horizontaly
+* `:split filename` - split window horizontaly
+* `:vsplit filename` - split window verticaly
+* `:bn` - next window
+* `:bp` - previous window
+* `:bd` - close window
+* `:only` - keep only this window open
+* `:ls` - show current buffers
+* `:b #n` - open buffer n in this window
+* `:hide` - hide current window
 
 ---
 Configuration
 ---
-`:set number` - show line numbers
-`:set nonumber` - hide line numbers
-`:set tabstop=4` - set tabs
-`:set shiftwidth=4` - indenting is 4 spaces
+* `:set number` - show line numbers
+* `:set nonumber` - hide line numbers
+* `:set tabstop=4` - set tabs
+* `:set shiftwidth=4` - indenting is 4 spaces
 
 Referências
 
