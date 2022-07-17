@@ -66,5 +66,7 @@ https://github-wiki-see.page/m/yqlbu/neovim-server/wiki/Cheat-Sheet
 
 https://www.cs.swarthmore.edu/oldhelp/vim/
 
+https://www.tutorialspoint.com/vim
+
 (MARKDOWN) - https://www.markdownguide.org/basic-syntax
 
