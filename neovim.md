@@ -27,7 +27,9 @@ h l
 ---
 Seach and Replace
 ---
-`:%/foo/bar/g` -> search and replace (https://linuxize.com/post/vim-find-replace/)
+`/pattern` -> search for pattern
+`?pattern` - search backward for pattern 
+`:%s/foo/bar/g` -> search and replace (https://linuxize.com/post/vim-find-replace/)
 
 ---
 Windows Navigation
